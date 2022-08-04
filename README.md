@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Development and Blockchain Development
 - 🌱 I’m currently learning Nodejs and Solidity
 - 💞️ I’m looking to collaborate on great web development projects
 - 📫 How to reach me ...
