@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Tim
-- 👀 I’m interested in Web Development and Blockchain Development
-- 🌱 I’m currently learning Nodejs and Solidity
+- 👋 Hi, I’m Israel
+- 👀 I’m a full-stack web developer and Framer Designer
 - 💞️ I’m looking to collaborate on great web development projects
-- 📫 How to reach me ...
 
 <!---
 ok-timmy/ok-timmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
